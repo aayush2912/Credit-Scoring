@@ -2,7 +2,7 @@
 
 This project aims to build an effective **Credit Risk Scoring** system using machine learning. The goal is to predict the creditworthiness of individuals based on their financial information. The project is structured into two major parts:
 
-1. **Model Comparisons**: Evaluating different machine learning models to determine the best performer for predicting credit risk.
+1. **Model Comparisons**: Evaluating different machine learning models to determine the best performer for predicting credit risk. <br>
 2. **Feature Engineering**: Enhancing the model's performance by creating additional meaningful features from raw data.
 
 ---
